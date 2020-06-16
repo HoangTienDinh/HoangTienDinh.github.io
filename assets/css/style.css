@@ -237,3 +237,9 @@ footer a:hover {
   border-color: white;
   border-radius: 3px;
 }
+
+.social-media {
+  background-color: white;
+  height: 20px;
+  width: 20px;
+}
