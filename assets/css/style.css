@@ -334,3 +334,23 @@ footer {
         color: #000;
         text-decoration: none;
     }
+/* =============================================================
+  ADDED BY HOANG
+ ============================================================ */
+
+ .about-body {
+     display: flex
+ }
+
+ .about-me {
+     display:flex;
+     flex-direction: column;
+     
+ }
+
+ .skills-list {
+     columns: 2;
+     -webkit-columns: 2;
+     -moz-columns: 2;
+     margin-bottom: 100px;
+ }
