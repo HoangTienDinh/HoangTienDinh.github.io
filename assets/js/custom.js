@@ -79,5 +79,6 @@ $(document).ready(function () {
     //CLIENTS SLIDER
         $("#clients-slider").carousel({
             interval: 2000 //TIME IN MILLI SECONDS
-        });
+        });
+
 });
