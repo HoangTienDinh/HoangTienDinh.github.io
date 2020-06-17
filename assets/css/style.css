@@ -246,3 +246,48 @@ footer a:hover {
 .social-media:hover {
   color: #ff2276;
 }
+
+#github {
+  font-size: 125px;
+}
+#linkedIn {
+  font-size: 125px;
+}
+#instagram {
+  font-size: 125px;
+}
+#email {
+  font-size: 125px;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+  #github {
+    font-size: 60px;
+  }
+  #linkedIn {
+    font-size: 60px;
+  }
+  #instagram {
+    font-size: 60px;
+  }
+  #email {
+    font-size: 60px;
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  #github {
+    font-size: 30px;
+  }
+  #linkedIn {
+    font-size: 30px;
+  }
+  #instagram {
+    font-size: 30px;
+  }
+  #email {
+    font-size: 30px;
+  }
+}
