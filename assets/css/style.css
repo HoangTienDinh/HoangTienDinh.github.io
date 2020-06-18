@@ -242,6 +242,10 @@ footer a:hover {
   justify-content: space-evenly;
 }
 
+.social-media {
+  margin-top: 50px;
+}
+
 .social-media:hover {
   color: #ff2276;
 }
@@ -262,16 +266,16 @@ footer a:hover {
 /* On screens that are 992px or less, set the background color to blue */
 @media screen and (max-width: 992px) {
   #github {
-    font-size: 60px;
+    font-size: 80px;
   }
   #linkedIn {
-    font-size: 60px;
+    font-size: 80px;
   }
   #instagram {
-    font-size: 60px;
+    font-size: 80px;
   }
   #email {
-    font-size: 60px;
+    font-size: 80px;
   }
 }
 
@@ -288,5 +292,12 @@ footer a:hover {
   }
   #email {
     font-size: 30px;
+  }
+  .social-banner {
+    flex-direction: column;
+  }
+  .social-link {
+    margin-bottom: 25px;
+    margin-top: 0px
   }
 }
