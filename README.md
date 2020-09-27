@@ -2,7 +2,7 @@
   hoangtiendinh.com - V1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://www.hoangtiendinh.com/" target="_blank">hoangtiendinh.com</a> built with <a href="https://reactjs.org/" target="_blank">React</a>
+  The first iteration of <a href="https://www.hoangtiendinh.com/" target="_blank">hoangtiendinh.com</a> built with <a href="https://jquery.com/" target="_blank">jQuery</a>
 </p>
 <p align="center">
     Other iterations
